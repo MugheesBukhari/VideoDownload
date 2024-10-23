@@ -1,0 +1,42 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/drawable/background.xml" value="0.142" />
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/drawable/bg_border_download_enable.xml" value="0.142" />
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/drawable/circle.xml" value="0.142" />
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/drawable/guide_bg.xml" value="0.142" />
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/drawable/ic_file_download.xml" value="0.142" />
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/drawable/window_bg.xml" value="0.142" />
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/layout/activity_guide.xml" value="0.21822916666666667" />
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/layout/activity_history.xml" value="0.21822916666666667" />
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/layout/activity_main.xml" value="0.22239583333333332" />
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/layout/activity_splash.xml" value="0.21822916666666667" />
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/layout/browser.xml" value="0.22239583333333332" />
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/layout/browser_toolbar.xml" value="0.21822916666666667" />
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/layout/custom_on_error_layout.xml" value="0.21822916666666667" />
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/layout/custom_on_loading_layout.xml" value="0.21822916666666667" />
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/layout/custom_player_controller.xml" value="0.21822916666666667" />
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/layout/dialog_guide.xml" value="0.21822916666666667" />
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/layout/dialog_youtube.xml" value="0.22239583333333332" />
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/layout/downloads.xml" value="0.21822916666666667" />
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/layout/downloads_c.xml" value="0.21822916666666667" />
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/layout/downloads_completed.xml" value="0.21822916666666667" />
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/layout/downloads_completed_item.xml" value="0.21822916666666667" />
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/layout/downloads_in_progress.xml" value="0.21822916666666667" />
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/layout/downloads_in_progress_item.xml" value="0.21822916666666667" />
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/layout/guide_item.xml" value="0.21822916666666667" />
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/layout/history_item.xml" value="0.21822916666666667" />
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/layout/video_qualities_dialog.xml" value="0.21822916666666667" />
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/layout/video_sites_item.xml" value="0.21822916666666667" />
+        <entry key="..\:/builtin projects/new/VideoDownloadAppV1/app/src/main/res/layout/videos_found_item.xml" value="0.21822916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="corretto-11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

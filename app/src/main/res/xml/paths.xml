@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2021.  Hurricane Development Studios
+  -->
+
+<paths>
+    <external-path
+        name="downloads"
+        path="Video Downloader/" />
+</paths>
